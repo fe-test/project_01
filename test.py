@@ -4,10 +4,7 @@ class hoge(object):
 
     def __init__(self):
 
-        #self.target = {}
-
-        pass
-
+        self.target = {}
 
 
     def append(self, val, key):
