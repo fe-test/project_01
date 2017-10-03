@@ -24,7 +24,7 @@ class hoge(object):
 
 if __name__ == '__main__':
 
-    key = "test"
+    key = "conflict"
     a = hoge()
 
     a.append(1, key)
