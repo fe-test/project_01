@@ -1,6 +1,6 @@
 class hoge(object):
 
-    target = {}
+    target = {3}
 
     def __init__(self):
 
